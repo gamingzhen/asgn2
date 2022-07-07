@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Piano</folder>
+	<filename>Google_0010.jpeg</filename>
+	<path>C:\Users\User\Downloads\Piano\Piano\Google_0010.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>976</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piano</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>40</ymin>
+			<xmax>821</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>
